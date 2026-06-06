@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.component {
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+    padding: 0;
+}
+
+.block {
+    background: #19ff19;
+    padding: 20px;
+    margin: 0;
+    border-bottom: 1px solid white;
+    color: white;
+    font-weight: bold;
+}
+
+.block-01 {
+    opacity: 0.1;
+}
+
+.block-03 {
+    opacity: 0.3;
+}
+
+.block-06 {
+    opacity: 0.6;
+}
+
+.block-1 {
+    opacity: 1;
+}

@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.4;
+}
+
+.component {
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+	border-style: solid;
+    border-width: 2px;
+    background: #f0f8ff;
+    padding: 20px;
+}
